@@ -170,6 +170,6 @@ input[type="range"] {
 }
 
 /* MAYBE GET RID OF THIS - ALTERS THE POSITION OF THE POP UP FOR AWKWARD TRANSITION */
-.copy-popup.active {
+/* .copy-popup.active {
   transform: translateY(0rem);
-}
+} */
