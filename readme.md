@@ -1,6 +1,6 @@
 # Color Palette Chooser
 
-A nice app to randomly generate and customize color palettes for your website.
+A nice little web app to randomly generate, customize and save color palettes for your website.
 
 # Deployment
 
